@@ -13,3 +13,4 @@ REPORT ZSIMPLE_GIT_REF.
 *** Conflict demo
 INCLUDE zsimple_f01.
 *** After include addition
+*** Test window
