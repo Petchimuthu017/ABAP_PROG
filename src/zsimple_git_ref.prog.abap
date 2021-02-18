@@ -11,3 +11,5 @@ REPORT ZSIMPLE_GIT_REF.
 *** Conflict2
 *** Bug Fix Branch Added
 *** Conflict demo
+INCLUDE zsimple_f01.
+*** After include addition
