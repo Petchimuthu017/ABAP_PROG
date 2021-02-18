@@ -10,3 +10,4 @@ REPORT ZSIMPLE_GIT_REF.
 *** Checking bug fix2
 *** Conflict2
 *** Bug Fix Branch Added
+*** Conflict demo
