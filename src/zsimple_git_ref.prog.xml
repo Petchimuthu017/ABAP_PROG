@@ -94,6 +94,534 @@
    </TPOOL>
    <I18N_TPOOL>
     <item>
+     <LANGUAGE>&amp;</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>1</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>2</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>3</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>4</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>5</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>6</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>8</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>;</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>C</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>D</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>F</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>G</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>H</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>I</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>J</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>K</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>L</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>M</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>N</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>O</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>P</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>Q</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>R</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
      <LANGUAGE>S</LANGUAGE>
      <TEXTPOOL>
       <item>
@@ -112,6 +640,94 @@
        <ID>R</ID>
        <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
        <LENGTH>70</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>T</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>U</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>V</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+    <item>
+     <LANGUAGE>쁩</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Changed text</ENTRY>
+       <LENGTH>12</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>8</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>23</LENGTH>
       </item>
      </TEXTPOOL>
     </item>
