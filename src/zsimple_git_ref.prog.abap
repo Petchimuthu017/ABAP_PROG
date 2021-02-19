@@ -14,3 +14,4 @@ REPORT ZSIMPLE_GIT_REF.
 INCLUDE zsimple_f01.
 *** After include addition
 *** Test window
+** test bug fix
