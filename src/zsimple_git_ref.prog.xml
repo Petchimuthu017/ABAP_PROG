@@ -77,8 +77,14 @@
     <item>
      <ID>I</ID>
      <KEY>001</KEY>
-     <ENTRY>Test text</ENTRY>
+     <ENTRY>Changed text</ENTRY>
      <LENGTH>19</LENGTH>
+    </item>
+    <item>
+     <ID>I</ID>
+     <KEY>002</KEY>
+     <ENTRY>New text</ENTRY>
+     <LENGTH>18</LENGTH>
     </item>
     <item>
      <ID>R</ID>
@@ -86,6 +92,30 @@
      <LENGTH>23</LENGTH>
     </item>
    </TPOOL>
+   <I18N_TPOOL>
+    <item>
+     <LANGUAGE>S</LANGUAGE>
+     <TEXTPOOL>
+      <item>
+       <ID>I</ID>
+       <KEY>001</KEY>
+       <ENTRY>Test text</ENTRY>
+       <LENGTH>19</LENGTH>
+      </item>
+      <item>
+       <ID>I</ID>
+       <KEY>002</KEY>
+       <ENTRY>New text</ENTRY>
+       <LENGTH>18</LENGTH>
+      </item>
+      <item>
+       <ID>R</ID>
+       <ENTRY>Program ZSIMPLE_GIT_REF</ENTRY>
+       <LENGTH>70</LENGTH>
+      </item>
+     </TEXTPOOL>
+    </item>
+   </I18N_TPOOL>
   </asx:values>
  </asx:abap>
 </abapGit>
